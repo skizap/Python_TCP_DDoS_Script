@@ -29,4 +29,4 @@ chmod +x TCPDeface.py
 python3 TCPDeface.py -s <IP> -t 100
 ```
 
-Replacing <IP> with the Intended Target IP Address
+
